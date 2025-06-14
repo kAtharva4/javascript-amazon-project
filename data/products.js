@@ -11,6 +11,7 @@ export const products = [
     keywords: [
       "socks",
       "sports",
+      
       "apparel"
     ]
   },
